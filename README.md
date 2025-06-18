@@ -45,14 +45,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshuRoy25&theme=darkhub&no-frame=true&title=Followers,Stars,Commits,Issues,PullRequest,Repositories" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
