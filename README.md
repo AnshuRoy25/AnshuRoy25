@@ -41,4 +41,39 @@
 
   <!-- Audio AI -->
   <img src="https://img.shields.io/badge/SpeechRecognition-8A2BE2?style=for-the-badge&logo=audacity&logoColor=white"/>
-  <img src="https://
+  <img src="https://img.shields.io/badge/Pyttsx3-228B22?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <!-- Hardware -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-3C3C3C?style=for-the-badge&logo=wifi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshuRoy25&show_icons=true&theme=dark" alt="Anshu's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnshuRoy25&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshuRoy25&theme=github_dark" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.instagram.com/anshuroy2006/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anshuroy2006/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+📫 **Email**:  
+- anshuroyal12345@gmail.com  
+- 24bph025@nith.ac.in
