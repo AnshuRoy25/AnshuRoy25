@@ -12,8 +12,8 @@
 ## 🧠 About Me
 
 - 🧑‍💻 I'm deeply passionate about building intelligent systems that bridge the gap between AI and hardware.
-- 🤖 Currently developing: `JARVIS AI Assistant`, integrating LangChain, LLaMA models, speech interfaces, and vision modules.
-- 🧪 I experiment with: **LLMs**, **prompt engineering**, **custom model training**, and **quantum control logic for robots**.
+- 🤖 Currently developing: `JARVIS AI Assistant`, integrating LangChain, LLM models, speech interfaces, and vision modules.
+- 🧪 I experiment with: **LLMs**, **prompt engineering**, **custom model training**
 - 🛠️ I love working with real-time embedded AI: voice control, computer vision, and robotics — all packed in.
 - 🚀 Interested in applied ML with models like **YOLOv8**, **Sklearn**, and frameworks like **LangChain**, **Flask**, **MongoDB**, and **MediaPipe**.
 
