@@ -30,9 +30,13 @@ React, Node.js, MongoDB, Scikit-learn
 AI travel insurance advisor that combines flight, weather, safety and health signals into personalised risk reports.
 React, Node.js, Flask, Google ADK, Gemini
 
-**Collaborative Development Workspace** (in progress)
-One workspace for a cloud IDE, shared whiteboard, chat and audio/video calls.
-Node.js, WebSockets, WebRTC, MongoDB
+**[RegMind](https://github.com/AnshuRoy25/RegMind)**
+Agentic compliance platform that tracks regulatory changes and maps them to what a firm needs to act on. Built for SEBI TechSprint 2026.
+Python
+
+**[SonaKhata](https://github.com/AnshuRoy25/Sona-Khata)**
+Voice-first gold ledger for jewellers and karigars to track gold given, returned and owed.
+JavaScript
 
 ## Achievements
 
