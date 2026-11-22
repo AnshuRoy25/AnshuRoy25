@@ -1,34 +1,53 @@
-# Anshu Asit Roy
+# Anshu Roy
 
-Backend developer working on fintech systems and agentic AI.
+Backend developer building fintech products and agentic AI systems.
 
-B.Tech in Engineering Physics at NIT Hamirpur (2024–2028), with a minor in Computer Science.
+B.Tech in Engineering Physics at NIT Hamirpur (2024–2028), with a minor in Computer Science and Engineering.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AnshuRoy25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## What I work on
-
-- Backend systems and APIs, mostly for fintech and marketplace products
-- Agentic AI: LLM-driven workflows that take real actions, not just chat
-- Quantitative finance: backtesting and strategy research
-
 ## Experience
 
-- **Full Stack Developer Intern, Unisole** (May–Aug 2026): built a learning management platform and the backend for a WhatsApp-based freight marketplace bot
-- **Backend Developer Intern, freight marketplace startup** (Apr–Jun 2026)
+**Full Stack Developer Intern, Unisole Empower** (May 2026 – Aug 2026, Remote)
+- Built 35+ REST API endpoints in Node.js and Express with JWT auth, OTP email login and Google OAuth 2.0
+- Designed MongoDB schemas for users, courses, enrollments, payments and notifications
+- Built the Razorpay payment flow with signature verification, and access-controlled video delivery on Azure Blob Storage
 
-## Selected projects
+**Backend Developer Intern, Freight Marketplace Startup** (Apr 2026 – Jun 2026, Remote)
+- Built the load-matching engine for a WhatsApp logistics platform on Supabase (PostgreSQL) and Node.js
+- Designed a real-time auction system for loads with automated settlement
+- Integrated the WhatsApp Business API, with conversation state handling and scheduled notifications
 
-- **RegMind.ai**: agentic compliance platform built for SEBI TechSprint 2026
-- **ShipProof**: evidence platform that helps sellers handle PayPal seller-protection disputes
-- **SonaKhata**: voice-first gold ledger for jewellers and karigars
-- **Backtest-Strategy-Algos**: backtesting trading strategies in Python
+## Projects
 
-## Tools
+**[CreditFlow](https://github.com/AnshuRoy25/CreditFlow-Main)**
+Credit assessment platform for New-To-Credit Indians. Scores users from bank statement data, salary consistency and cash flow instead of bureau scores.
+React, Node.js, MongoDB, Scikit-learn
 
-Python, JavaScript, C++, Flask, MongoDB, LangChain
+**[InsureSense](https://github.com/AnshuRoy25/InsureSense-Main)**
+AI travel insurance advisor that combines flight, weather, safety and health signals into personalised risk reports.
+React, Node.js, Flask, Google ADK, Gemini
+
+**Collaborative Development Workspace** (in progress)
+One workspace for a cloud IDE, shared whiteboard, chat and audio/video calls.
+Node.js, WebSockets, WebRTC, MongoDB
+
+## Achievements
+
+- 11th in the FinTech category at AI Hack Matrix, INNOVFEST 2026, with CreditFlow (Top 20 of 850+ teams)
+- Top 10 finalist at GenAI Mumbai Hackathon with InsureSense (418 teams)
+- 16th of 390 teams at GDG HackCentrix with CreditFlow
+
+## Skills
+
+- **Languages:** C++, Python, JavaScript
+- **Frameworks:** React, Node.js, Express, Flask, Pandas
+- **Databases:** MongoDB, PostgreSQL, SQL, Pinecone, Chroma
+- **Cloud:** Azure Blob Storage, Supabase, Vercel, Render
+- **AI/ML:** LLMs, RAG, Embeddings, Ollama, Hugging Face, Reinforcement Learning
+- **Tools:** Git, Linux, Figma
 
 ## GitHub Stats
 
@@ -39,5 +58,6 @@ Python, JavaScript, C++, Flask, MongoDB, LangChain
 
 ## Contact
 
+- Portfolio: [allaboutanshu.vercel.app](https://allaboutanshu.vercel.app)
 - LinkedIn: [linkedin.com/in/anshuroy2006](https://www.linkedin.com/in/anshuroy2006/)
-- Email: anshuroyal12345@gmail.com, 24bph025@nith.ac.in
+- Email: royanshu.main@gmail.com
